@@ -3,4 +3,4 @@
     - Flints
 
 
-![profile](img/image.jpg)
+![profile](img/img.jpg)
