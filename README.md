@@ -3,4 +3,4 @@
     - Flints
 
 
-![alt text](img/flint.jpeg)
+![alt text](img/img.jpeg)
