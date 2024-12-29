@@ -1,7 +1,7 @@
 Consistency
 - Definition: Data consistency ensures that data values obtained from different and independent datasets or different data sources do not contradict each other. With every growing data source, it’s very crucial for organizations 
   to make sure that the data, integrated from different sources, is standardized for data consumption.
-- Source: https://www.collibra.com/us/en/blog/the-6-dimensions-of-data-quality
+- Source: [https://www.collibra.com/us/en/blog/the-6-dimensions-of-data-quality]( https://www.collibra.com/us/en/blog/the-6-dimensions-of-data-quality)
 - Meaning by ChatGPT: Consistency หมายถึง ความสอดคล้องกัน หรือ ความสมบูรณ์ของข้อมูล ที่แสดงถึงความตรงกันของข้อมูลในฐานข้อมูลหรือแหล่งข้อมูลต่างๆ โดยข้อมูลที่มีคุณภาพดีจะต้องไม่ขัดแย้งกันเองหรือมีการผิดพลาดในลักษณะต่างๆ
   ข้อมูลในระบบหรือระหว่างแหล่งข้อมูลต่าง ๆ ต้องไม่ขัดแย้งกัน 
 - Meaning by Gemini: การที่ข้อมูลชุดหนึ่งมีคุณลักษณะที่เหมือนกันหรือใกล้เคียงกันตลอดทั้งชุดข้อมูล ไม่ว่าจะเป็นการเก็บรวบรวมข้อมูลในช่วงเวลาที่ต่างกันหรือมาจากแหล่งข้อมูลที่แตกต่างกันก็ตาม
