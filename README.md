@@ -7,3 +7,4 @@
 
 # Vocabulary: [Honeypots](honeypots.md)
 # e-card: [e-card](e-card.md)
+# consistency: [consistency](consistency.md)
